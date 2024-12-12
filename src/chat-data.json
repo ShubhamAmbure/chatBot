@@ -1,0 +1,229 @@
+{
+    "data": {
+      "chat1": [
+        {
+          "from": {
+            "type": "user2"
+          },
+          "msg": {
+            "message": "Hi John, how can I assist you with your internet issue today?"
+          }
+        },
+        {
+          "from": {
+            "type": "user1"
+          },
+          "msg": {
+            "message": "Hi, I've got the O2 package and have really slow internet. A speed check online said I can get 3mbps but it seems more like 0.5 these days, just freezing and taking ages to open pages and audio files for example. I have decided to switch to the UPC package which offers 10mbps, but do you think I will get it?"
+          }
+        },
+        {
+          "from": {
+            "type": "user2"
+          },
+          "msg": {
+            "message": "Sure! I will definitely help you with your query. Could you please confirm your email address?"
+          }
+        },
+        {
+          "from": {
+            "type": "user1"
+          },
+          "msg": {
+            "message": "john.mayers@gmail.com"
+          }
+        }
+      ],
+      "chat2": [
+        {
+          "from": {
+            "type": "user2"
+          },
+          "msg": {
+            "message": "Hi Tony, how can I help you with your computer issue today?"
+          }
+        },
+        {
+          "from": {
+            "type": "user1"
+          },
+          "msg": {
+            "message": "Hi, my computer is not working since yesterday. I need the computer to reboot my Iron Man suit. Could you please help me?"
+          }
+        },
+        {
+          "from": {
+            "type": "user2"
+          },
+          "msg": {
+            "message": "Sure! I will definitely help you with your query. Could you please confirm your email address?"
+          }
+        },
+        {
+          "from": {
+            "type": "user1"
+          },
+          "msg": {
+            "message": "tony.stark@gmail.com"
+          }
+        }
+      ],
+      "chat3": [
+        {
+          "from": {
+            "type": "user2"
+          },
+          "msg": {
+            "message": "Hello Bessie, how can I help you with your design project?"
+          }
+        },
+        {
+          "from": {
+            "type": "user1"
+          },
+          "msg": {
+            "message": "I need some guidance on creating a new logo for my client. Can you suggest some ideas?"
+          }
+        },
+        {
+          "from": {
+            "type": "user2"
+          },
+          "msg": {
+            "message": "Sure, I can help with that! Let me gather some references for you. Meanwhile, could you share more details about the client's brand?"
+          }
+        }
+      ],
+      "chat4": [
+        {
+          "from": {
+            "type": "user2"
+          },
+          "msg": {
+            "message": "Hi Gleb, how can I assist you with your testing issue?"
+          }
+        },
+        {
+          "from": {
+            "type": "user1"
+          },
+          "msg": {
+            "message": "I’m facing some challenges with the automated test scripts. They're failing randomly, and I'm not sure if it's an environment issue. Any suggestions?"
+          }
+        },
+        {
+          "from": {
+            "type": "user2"
+          },
+          "msg": {
+            "message": "It could be related to the test environment. Have you tried isolating the tests to see if they fail individually or only in bulk?"
+          }
+        }
+      ],
+      "chat5": [
+        {
+          "from": {
+            "type": "user2"
+          },
+          "msg": {
+            "message": "Hi Andrey, what can I help you with today?"
+          }
+        },
+        {
+          "from": {
+            "type": "user1"
+          },
+          "msg": {
+            "message": "I need advice on improving the responsiveness of my UI components. They're lagging when resizing the window."
+          }
+        },
+        {
+          "from": {
+            "type": "user2"
+          },
+          "msg": {
+            "message": "You might want to look into debouncing the resize events. That should improve performance significantly."
+          }
+        }
+      ],
+      "chat6": [
+        {
+          "from": {
+            "type": "user2"
+          },
+          "msg": {
+            "message": "Hello Nick, how can I help you with your product design?"
+          }
+        },
+        {
+          "from": {
+            "type": "user1"
+          },
+          "msg": {
+            "message": "I'm working on a new mobile app design. Can you help me figure out a better navigation layout?"
+          }
+        },
+        {
+          "from": {
+            "type": "user2"
+          },
+          "msg": {
+            "message": "Absolutely! Have you considered using a bottom navigation bar? It's often a good choice for mobile apps."
+          }
+        }
+      ],
+      "chat7": [
+        {
+          "from": {
+            "type": "user2"
+          },
+          "msg": {
+            "message": "Hi Valentin, how can I assist you with your graphic design tasks?"
+          }
+        },
+        {
+          "from": {
+            "type": "user1"
+          },
+          "msg": {
+            "message": "I’m creating a digital poster, but I'm stuck on the color scheme. Any recommendations?"
+          }
+        },
+        {
+          "from": {
+            "type": "user2"
+          },
+          "msg": {
+            "message": "I suggest going with a triadic color scheme for balance. Would you like me to generate a few palette suggestions for you?"
+          }
+        }
+      ],
+      "chat8": [
+        {
+          "from": {
+            "type": "user2"
+          },
+          "msg": {
+            "message": "Hi Miro, how can I assist you with your HR queries today?"
+          }
+        },
+        {
+          "from": {
+            "type": "user1"
+          },
+          "msg": {
+            "message": "I need some advice on streamlining the recruitment process. It's taking too long to fill roles."
+          }
+        },
+        {
+          "from": {
+            "type": "user2"
+          },
+          "msg": {
+            "message": "You might want to automate initial screening with an ATS system and pre-interview questionnaires. It could significantly speed up the process."
+          }
+        }
+      ]
+    }
+  }
+  
